@@ -1,0 +1,1 @@
+# association_in_rails
